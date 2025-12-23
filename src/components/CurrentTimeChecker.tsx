@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { Clock } from 'lucide-react';
-import { Card } from '.components/ui/card';
+import { Card } from '../ui/card';
 import { CityAutocomplete } from './CityAutocomplete';
 import { cities, City } from '../data/cities';
 
